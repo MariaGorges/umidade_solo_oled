@@ -16,4 +16,4 @@ Este projeto utiliza um sensor de umidade do solo e um display OLED para monitor
 
 ## Esquema do Circuito
 
-![Esquema do Circuito](sensor_umidade_oled_diagrama.png)
+!(sensor_umidade_oled_diagrama.png)
